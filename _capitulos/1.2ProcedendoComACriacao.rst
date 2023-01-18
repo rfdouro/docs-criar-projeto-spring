@@ -2,7 +2,11 @@
 Criando um Projeto
 =====================================================
 
-Iremos criar um projeto Maven com as seguintes especificações
+Iremos criar um projeto Maven com as seguintes especificações:
+
+(a) Projeto Maven
+(b) Java vrsão 17
+
 
 3.1) O que acontece depois que faço uma Nova Solicitação?
 -----------------------------------------------------------------------
