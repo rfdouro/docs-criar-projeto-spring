@@ -1,1 +1,8 @@
 
+Como realizo a autenticação no sistema para solicitar Requerimentos de Autorização de Pesquisa?
+=====================================================
+
+Primeiro, você precisa ter cadastro ativo no login único do Gov.BR.
+Acesse https://acesso.gov.br/, crie sua conta de pessoa física no Login Único e, caso não tenha CTDM, obtenha os selos e-CPF ou e-CNPJ a partir do respectivo certificado digital.
+Mais informações sobre o Login Único podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+Com o cadastro feito, você pode realizar a autenticação no sistema para solicitar seu Requerimento de Autorização de Pesquisa Mineral utilizando o seu CPF e sua senha. (Lembrando que esses dados precisam ser os mesmos cadastrados no login único do Gov BR).
