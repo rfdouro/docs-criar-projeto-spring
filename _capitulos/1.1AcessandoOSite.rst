@@ -5,4 +5,6 @@ Acessando o Site
 Primeiro, você precisa acessar o site usando um navegador.
 Acesse https://start.spring.io/.
 Será tal como a imagem a seguir:
+
 .. image:: ../imagens/image.png
+
