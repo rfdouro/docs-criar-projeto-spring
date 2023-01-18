@@ -3,6 +3,7 @@ Criando um Projeto
 =====================================================
 
 Iremos criar um projeto Maven com as seguintes especificações
+
 3.1) O que acontece depois que faço uma Nova Solicitação?
 -----------------------------------------------------------------------
 
